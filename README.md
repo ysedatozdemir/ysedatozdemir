@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sedat Ozdemir</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 🎓 I’m 2rd year computer engineering student at **Middle East Technical University**
+- 🎓 I’m 3rd year computer engineering student at **Middle East Technical University**
 
 - 📫 How to reach me **y.sedat.ozdemir@gmail.com**
 
